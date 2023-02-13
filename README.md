@@ -13,6 +13,8 @@ This Portfolio is a compilation of all the Machine Learning and Deep Learning pr
   Awarded a Scholarship Data Science Course Bertelsmann Education Group
   
   ### Projects
+  ![](https://github.com/sarashahin/MyOfficialPortfolio/blob/main/images/Screenshot%202023-02-13%20at%2020.20.51.png)
+  
   [Multimodal-Fake-News-Detection](https://github.com/sarashahin/Multimodal-Fake-News-Detection)
   
   I examined different deep learning architectures for text classification such as Bidirectional long short-term memory (BiLSTM) and Bidirectional encoder   representations from transformers (BERT). As a multimodal approach, I proposed a CNN architecture that combines both texts and images to classify the       fake news.
