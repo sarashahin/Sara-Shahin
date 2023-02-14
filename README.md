@@ -41,6 +41,14 @@ The unet_model function defines the architecture of the U-Net model using a seri
 
 # Micro Projects
 
+   ###  * Statistics and Machine Learning
 
+   > [Neural Network Word Embedding](https://github.com/sarashahin/word_Embedding/blob/main/word-embedding.ipynb):
+Learn word embeddings jointly with the main task that care about (e.g. document classification or sentiment prediction). In this setup, you would start with random word vectors, then learn your word vectors in the same way that you learn the weights of a neural network. Load into your model word embeddings that were pre-computed using a different machine learning task than the one you are trying to solve. These are called pre-trained word embeddings.
 
+> [Analysis Data](https://github.com/sarashahin/Dealing-with-data/blob/master/Dealingwithdata.ipynb):
+Data Processing, Data Cleaning, Exploratory Analysis and Data Visualization
+
+> [Pre-trained Inception V3 model Deepdream-keras](https://github.com/sarashahin/deepDream_keras/blob/main/deepdream-keras.ipynb):
+This code loads a pre-trained Inception V3 model, defines a function to read and preprocess an image, downsizes the image to make it easier to work with, and defines a function to calculate the loss for a given image and model. It also defines some utility functions to deprocess and display an image. It creates a feature extraction model using the specified layers of the loaded model. Uses gradient ascent to update the input image iteratively.
  
