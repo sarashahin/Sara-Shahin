@@ -19,9 +19,14 @@ This Portfolio is a compilation of all the Machine Learning and Deep Learning pr
   [Multimodal-Fake-News-Detection](https://github.com/sarashahin/Multimodal-Fake-News-Detection)
   
   I examined different deep learning architectures for text classification such as Bidirectional long short-term memory (BiLSTM) and Bidirectional encoder   representations from transformers (BERT). As a multimodal approach, I proposed a CNN architecture that combines both texts and images to classify the       fake news.
+  
+  
+  
+  
 
-
-
+[text-classification](https://github.com/sarashahin/Textclassification/blob/main/text-classification.ipynb)
+  
+Trained a Logistic Regression and Recurrent Neural Network (with LSTM layer) methods to carry out classification of Ironic and Sarcastic Tweets using Natural Language Processing. Pre-processing of the text data and word vectorisation was required before training these methods using TensorFlow. Evaluate the methods' performance based on Precision, Recall, and F-Scores.
 
 
  
