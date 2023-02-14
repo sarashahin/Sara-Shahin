@@ -41,7 +41,7 @@ The unet_model function defines the architecture of the U-Net model using a seri
 
 # Micro Projects
 
-   ###  * Statistics and Machine Learning
+   ***Statistics and Machine Learning***
 
    > [Neural Network Word Embedding](https://github.com/sarashahin/word_Embedding/blob/main/word-embedding.ipynb):
 Learn word embeddings jointly with the main task that care about (e.g. document classification or sentiment prediction). In this setup, you would start with random word vectors, then learn your word vectors in the same way that you learn the weights of a neural network. Load into your model word embeddings that were pre-computed using a different machine learning task than the one you are trying to solve. These are called pre-trained word embeddings.
