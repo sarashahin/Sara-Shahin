@@ -64,4 +64,8 @@ This code loads a pre-trained Inception V3 model, defines a function to read and
 **Tools**: MySQL, Tableau, Git, HTML, CSS, MS Excel
 
 ## Certificates
- **[Deep Learning by Stanford University Online](https://coursera.org/share/57c4f47585f24a15b0f7c7f9675352f3)**
+ * [Deep Learning by Stanford University Online(Coursera)](https://coursera.org/share/57c4f47585f24a15b0f7c7f9675352f3)
+ * [Machine Learning by Stanford University Online(Coursera)](https://coursera.org/share/8de9508deb43955e79ab4cbe4e96d138)
+ * [IBM Data Science](https://coursera.org/share/81c4e2ae2b5576dc5f08a55357fcbda0)
+ * [IBM AI Engineering](https://coursera.org/share/ada7c46619bfec173e3d3e2490063320)
+ * [Google IT Support](https://coursera.org/share/70636438ee231b5da6a3d9eb51ffcb5d)
