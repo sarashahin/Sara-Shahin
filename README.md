@@ -51,4 +51,17 @@ Data Processing, Data Cleaning, Exploratory Analysis and Data Visualization
 
 > [Pre-trained Inception V3 model Deepdream-keras](https://github.com/sarashahin/deepDream_keras/blob/main/deepdream-keras.ipynb):
 This code loads a pre-trained Inception V3 model, defines a function to read and preprocess an image, downsizes the image to make it easier to work with, and defines a function to calculate the loss for a given image and model. It also defines some utility functions to deprocess and display an image. It creates a feature extraction model using the specified layers of the loaded model. Uses gradient ascent to update the input image iteratively.
- 
+
+### Challenges
+> Data Science Challenges: This repository contains codes of online Data Science challenges (From Hackerrank, etc.) solved by me.
+
+## Core Competencies
+
+**Methodologies** : Machine Learning, Deep Learning, Natural Language Processing, Statistics and Data Analytics
+
+**Languages**: Python (Pandas, Numpy, Scikit-Learn, Scipy, Keras, TensorFlow, Matplotlib), SQL, C++, JavaScript
+
+**Tools**: MySQL, Tableau, Git, HTML, CSS, MS Excel
+
+## Certificates
+ **[Deep Learning by Stanford University Online](https://coursera.org/share/57c4f47585f24a15b0f7c7f9675352f3)**
