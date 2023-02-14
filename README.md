@@ -13,7 +13,8 @@ This Portfolio is a compilation of all the Machine Learning and Deep Learning pr
   
   Awarded a Scholarship Data Science Course Bertelsmann Education Group
   
-  # Projects
+  ## Projects
+  
    <img align="left" src="https://github.com/sarashahin/MyOfficialPortfolio/blob/main/images/Screenshot%202023-02-13%20at%2020.20.51.png" alt="My Image">
    
   [Multimodal-Fake-News-Detection](https://github.com/sarashahin/Multimodal-Fake-News-Detection)
@@ -22,11 +23,17 @@ This Portfolio is a compilation of all the Machine Learning and Deep Learning pr
   
   
   
-  
+  ## <img align="left" src="https://github.com/sarashahin/MyOfficialPortfolio/blob/main/images/1_rnko_Sy3iEQ-sUbzmU4A-A.png" alt="My Image" height='150' width = '130'>
 
-[text-classification](https://github.com/sarashahin/Textclassification/blob/main/text-classification.ipynb)
+  [text-classification](https://github.com/sarashahin/Textclassification/blob/main/text-classification.ipynb)
   
-Trained a Logistic Regression and Recurrent Neural Network (with LSTM layer) methods to carry out classification of Ironic and Sarcastic Tweets using Natural Language Processing. Pre-processing of the text data and word vectorisation was required before training these methods using TensorFlow. Evaluate the methods' performance based on Precision, Recall, and F-Scores.
+  
+Trained a Logistic Regression and Recurrent Neural Network (with LSTM layer) methods to carry out classification of Ironic and Sarcastic Tweets using      Natural Language Processing. Pre-processing of the text data and word vectorisation was required before training these methods using TensorFlow.          Evaluate the methods' performance based on Precision, Recall, and F-Scores.
+
+
+[Diabetes_Retinopathy_Dectetion_UNet_augment](https://github.com/sarashahin/DiabetesRetinopathyDectetion_UNet_augment./blob/main/DiabetesRetinopathyDectetion_UNet_augment.ipynb)
+
+The unet_model function defines the architecture of the U-Net model using a series of convolutional, pooling, and transpose convolutional layers. The model takes an input tensor of shape input_shape and returns an output tensor of shape (height, width, 1).
 
 
  
