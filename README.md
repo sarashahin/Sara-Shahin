@@ -30,6 +30,7 @@ This Portfolio is a compilation of all the Machine Learning and Deep Learning pr
   
 Trained a Logistic Regression and Recurrent Neural Network (with LSTM layer) methods to carry out classification of Ironic and Sarcastic Tweets using      Natural Language Processing. Pre-processing of the text data and word vectorisation was required before training these methods using TensorFlow.          Evaluate the methods' performance based on Precision, Recall, and F-Scores.
 
+  ## <img align="left" src="https://github.com/sarashahin/MyOfficialPortfolio/blob/main/images/images.jpeg" alt="My Image" height='150' width = '130'>
 
 [Diabetes_Retinopathy_Dectetion_UNet_augment](https://github.com/sarashahin/DiabetesRetinopathyDectetion_UNet_augment./blob/main/DiabetesRetinopathyDectetion_UNet_augment.ipynb)
 
