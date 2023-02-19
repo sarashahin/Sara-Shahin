@@ -54,7 +54,7 @@ This code loads a pre-trained Inception V3 model, defines a function to read and
 
 ### Challenges
 > Data Science Challenges: This repository contains codes of online Data Science challenges (From Hackerrank, etc.) solved by me.
-> [Kaggle Competition RSNA Screening Mammography Breast Cancer Detection] (https://www.kaggle.com/sarashahin/competitions)
+> Kaggle Competition RSNA Screening Mammography Breast Cancer Detection https://www.kaggle.com/sarashahin/competitions
 
 ## Core Competencies
 
