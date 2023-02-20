@@ -21,7 +21,12 @@ This Portfolio is a compilation of all the Machine Learning and Deep Learning pr
   
   I examined different deep learning architectures for text classification such as Bidirectional long short-term memory (BiLSTM) and Bidirectional encoder   representations from transformers (BERT). As a multimodal approach, I proposed a CNN architecture that combines both texts and images to classify the       fake news.
   
-  
+    ## <img align="left" src="https://github.com/sarashahin/MyOfficialPortfolio/blob/main/images/1_rnko_Sy3iEQ-sUbzmU4A-A.png" alt="My Image" height='150' width = '130'> 
+    [RSNA Screening Mammography Breast Cancer Detection](https://www.kaggle.com/code/sarashahin/rsna-screening-mammography-breast-cancer-detection)
+    
+    The goal of this competition is to identify breast cancer using logistic regression model.
+    
+    
   
   ## <img align="left" src="https://github.com/sarashahin/MyOfficialPortfolio/blob/main/images/1_rnko_Sy3iEQ-sUbzmU4A-A.png" alt="My Image" height='150' width = '130'>
 
