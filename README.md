@@ -21,19 +21,21 @@ This Portfolio is a compilation of all the Machine Learning and Deep Learning pr
   
   I examined different deep learning architectures for text classification such as Bidirectional long short-term memory (BiLSTM) and Bidirectional encoder   representations from transformers (BERT). As a multimodal approach, I proposed a CNN architecture that combines both texts and images to classify the       fake news.
   
-    ## <img align="left" src="https://github.com/sarashahin/MyOfficialPortfolio/blob/main/images/1_rnko_Sy3iEQ-sUbzmU4A-A.png" alt="My Image" height='150' width = '130'> 
-    [RSNA Screening Mammography Breast Cancer Detection](https://www.kaggle.com/code/sarashahin/rsna-screening-mammography-breast-cancer-detection)
+   ## <img align="left" src="https://github.com/sarashahin/MyOfficialPortfolio/blob/main/images/download.jpeg" alt="My Image" height='150' width = '130'> 
     
-    The goal of this competition is to identify breast cancer using logistic regression model.
+ [RSNA Screening Mammography Breast Cancer Detection](https://www.kaggle.com/code/sarashahin/rsna-screening-mammography-breast-cancer-detection)
     
+ The goal of this competition is to identify breast cancer using logistic regression model.
     
+ <br>
   
-  ## <img align="left" src="https://github.com/sarashahin/MyOfficialPortfolio/blob/main/images/1_rnko_Sy3iEQ-sUbzmU4A-A.png" alt="My Image" height='150' width = '130'>
+   ## <img align="left" src="https://github.com/sarashahin/MyOfficialPortfolio/blob/main/images/1_rnko_Sy3iEQ-sUbzmU4A-A.png" alt="My Image" height='150'       width = '130'>
 
-  [text-classification](https://github.com/sarashahin/Textclassification/blob/main/text-classification.ipynb)
+[text-classification](https://github.com/sarashahin/Textclassification/blob/main/text-classification.ipynb)
   
   
-Trained a Logistic Regression and Recurrent Neural Network (with LSTM layer) methods to carry out classification of Ironic and Sarcastic Tweets using      Natural Language Processing. Pre-processing of the text data and word vectorisation was required before training these methods using TensorFlow.          Evaluate the methods' performance based on Precision, Recall, and F-Scores.
+Trained a Logistic Regression and Recurrent Neural Network (with LSTM layer) methods to carry out classification of Ironic and Sarcastic Tweets using      Natural Language Processing. Pre-processing of the text data and word vectorisation was required before training these methods using TensorFlow.            Evaluate the methods' performance based on Precision, Recall, and F-Scores.
+
 
   ## <img align="left" src="https://github.com/sarashahin/MyOfficialPortfolio/blob/main/images/images.jpeg" alt="My Image" height='150' width = '130'>
 
