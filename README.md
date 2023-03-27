@@ -47,11 +47,11 @@ The unet_model function defines the architecture of the U-Net model using a seri
    
    ## <img align="left" src="https://github.com/sarashahin/MyOfficialPortfolio/blob/main/images/Screenshot%202023-03-27%20at%2021.20.46.png" alt="My Image"    height='150' width = '130'>
    
-[Google - Isolated Sign Language Recognition]
-(https://www.kaggle.com/code/sarashahin/isolatedsignlanguagerecognition)
+[Google - Isolated Sign Language Recognition](https://www.kaggle.com/code/sarashahin/isolatedsignlanguagerecognition)
 
 
 The goal of this competition is to classify isolated American Sign Language (ASL) signs. Create a TensorFlow Lite model trained on labeled landmark data.
+
 ### Still working on it
 
 <br>
