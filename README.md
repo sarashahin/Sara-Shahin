@@ -11,6 +11,8 @@ This Portfolio is a compilation of all the Machine Learning and Deep Learning pr
    
    
   ### Achievements
+  Currently, I am currently pursuing an MSc in AI at ARU University.
+  
   Recipient of First-Class Honours Bachelor Degree of Computer Science - Machine Learning & Artificial Intelligence.
   
   Awarded a Scholarship Data Science Course Bertelsmann Education Group
