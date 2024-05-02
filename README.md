@@ -20,7 +20,8 @@ This Portfolio is a compilation of all the Machine Learning and Deep Learning pr
   Awarded Women Students in Computer Science & Engineering Event in Milan Sponsor by First Ascent International.
   
   ## Projects
-   <img align="left" src="https://github.com/sarashahin/MyOfficialPortfolio/blob/main/images/lung.jpeg" alt="My Image">
+  
+   <img align="left" src="https://github.com/sarashahin/MyOfficialPortfolio/blob/main/images/lung.jpeg" alt="My Image" height='150' width = '130'>
    
    [https://github.com/sarashahin/ML_Research)
 
