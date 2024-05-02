@@ -25,10 +25,10 @@ This Portfolio is a compilation of all the Machine Learning and Deep Learning pr
    
    [https://github.com/sarashahin/ML_Research)
    
-   # Enhancing and Evaluating the Robustness of Transfer-Learned Models with Ensemble Learning Against Noisy Data and Adversarial Attacks in Lung Tumour Imaging
+   Enhancing and Evaluating the Robustness of Transfer-Learned Models with Ensemble Learning Against Noisy Data and Adversarial Attacks in Lung Tumour Imaging
 
       This research inspects the robustness of transfer learned models such as DenseNet121 and ResNet50 against altered noise and adversarial attacks(FGSM) in the diagnosis of lung tumour. One of the leading causes of cancer related deaths is lung cancer and    requires advanced diagnostic tools for early detection. My study has evaluated these models under three conditions which are noisy, under adversarial attacks using the Fast Gradient Sign Method (FGSM) and with clean, unaltered test data. DenseNet121 has    demonstrated high quality performance in noisy environments with a 74% accuracy suggesting better management of data annotations. Conversely, ResNet50 was more resilient against adversarial attacks showing a 72% accuracy. Both models have indicated comparable efficacy on clean data with DenseNet121 at 78% accuracy. Notably, my innovative, ensemble approach combining these architectures shows improved performance on clean data at 78% accuracy and displays increased resistance to noise with 76% accuracy.
-   <br>
+  
   
   
   ##  <img align="left" src="https://github.com/sarashahin/MyOfficialPortfolio/blob/main/images/Screenshot%202023-02-13%20at%2020.20.51.png" alt="My Image">
