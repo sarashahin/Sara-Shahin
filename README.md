@@ -11,7 +11,7 @@ This Portfolio is a compilation of all the Machine Learning and Deep Learning pr
    
    
   ### Achievements
-  Currently, I am currently pursuing an MSc in AI at ARU University.
+  Currently, I am currently pursuing an MSc in AI at Anglia Ruskin University.
   
   Recipient of Honours Bachelor Degree of Computer Science - Machine Learning & Artificial Intelligence.
   
@@ -20,6 +20,10 @@ This Portfolio is a compilation of all the Machine Learning and Deep Learning pr
   Awarded Women Students in Computer Science & Engineering Event in Milan Sponsor by First Ascent International.
   
   ## Projects
+   <img align="left" src="[https://github.com/sarashahin/MyOfficialPortfolio/blob/main/images/Screenshot%202023-02-13%20at%2020.20.51.png](https://github.com/sarashahin/MyOfficialPortfolio/blob/main/images/lung.jpeg)" alt="My Image">
+   [https://github.com/sarashahin/ML_Research)
+
+  
   
    <img align="left" src="https://github.com/sarashahin/MyOfficialPortfolio/blob/main/images/Screenshot%202023-02-13%20at%2020.20.51.png" alt="My Image">
    
