@@ -13,7 +13,7 @@ This Portfolio is a compilation of all the Machine Learning and Deep Learning pr
   ### Achievements
   Currently, I am currently pursuing an MSc in AI at Anglia Ruskin University.
   
-  Recipient of Honours Bachelor Degree of Computer Science - Machine Learning & Artificial Intelligence.
+  Recipient of Honours Bachelor Degree of Computer Science - Machine Learning & Artificial Intelligence at Goldsmiths college, University of London.
   
   Awarded a Scholarship Data Science Course Bertelsmann Education Group
 
