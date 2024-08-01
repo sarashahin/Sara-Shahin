@@ -20,6 +20,19 @@ This Portfolio is a compilation of all the Machine Learning and Deep Learning pr
   Awarded Women Students in Computer Science & Engineering Event in Milan Sponsor by First Ascent International.
   
   ## Projects
+
+ ## <img align="left" src="https://github.com/sarashahin/Breast_Cancer_Detection_Attention-UNet_Segmentatio/blob/main/Images/Screenshot%202024-08-01%20at%2021.31.10.png" alt="My Image" height='150' width = '130'>
+
+  [https://github.com/sarashahin/Breast_Cancer_Detection_Attention-UNet_Segmentatio/blob/main/Breast_Cancer_Detection_Attention_UNet_Segmentatio.ipynb]
+
+   ### Breast Cancer Detection Attention-UNet Segmentation
+
+   The aim of this research is to develop a model that can accurately segment breast ultrasound images, identifying areas that may indicate the presence of cancer.
+   We are using deep learning techniques, specifically a custom UNet architecture with attention       
+   mechanisms, to enhance the performance of image segmentation.
+
+
+ <br>
   
    <img align="left" src="https://github.com/sarashahin/MyOfficialPortfolio/blob/main/images/lung.jpeg" alt="My Image" height='150' width = '130'>
    
@@ -27,7 +40,10 @@ This Portfolio is a compilation of all the Machine Learning and Deep Learning pr
    
    ### Enhancing and Evaluating the Robustness of Transfer-Learned Models with Ensemble Learning Against Noisy Data and Adversarial Attacks in Lung Tumour Imaging
 
-This research inspects the robustness of transfer learned models such as DenseNet121 and ResNet50 against altered noise and adversarial attacks(FGSM) in the diagnosis of lung tumour. One of the leading causes of cancer related deaths is lung cancer and    requires advanced diagnostic tools for early detection. My study has evaluated these models under three conditions which are noisy, under adversarial attacks using the Fast Gradient Sign Method (FGSM) and with clean, unaltered test data. DenseNet121 has    demonstrated high quality performance in noisy environments with a 74% accuracy suggesting better management of data annotations. Conversely, ResNet50 was more resilient against adversarial attacks showing a 72% accuracy. Both models have indicated comparable efficacy on clean data with DenseNet121 at 78% accuracy. Notably, my innovative, ensemble approach combining these architectures shows improved performance on clean data at 78% accuracy and displays increased resistance to noise with 76% accuracy.
+   This research inspects the robustness of transfer learned models such as DenseNet121 and ResNet50 against altered noise and adversarial attacks(FGSM) in the diagnosis of lung tumour. One of the leading causes of cancer related deaths is lung cancer and       
+   requires advanced diagnostic tools for early detection. My study has evaluated these models under three conditions which are noisy, under adversarial attacks using the Fast Gradient Sign Method (FGSM) and with clean, unaltered test data. DenseNet121 has    
+   demonstrated high quality performance in noisy environments with a 74% accuracy suggesting better management of data annotations. Conversely, ResNet50 was more resilient against adversarial attacks showing a 72% accuracy. Both models have indicated comparable 
+   efficacy on clean data with DenseNet121 at 78% accuracy. Notably, my innovative, ensemble approach combining these architectures shows improved performance on clean data at 78% accuracy and displays increased resistance to noise with 76% accuracy.
 
    <br>
   
