@@ -15,7 +15,7 @@ This Portfolio is a compilation of all the Machine Learning and Deep Learning pr
   
   Recipient of Honours Bachelor Degree of Computer Science - Machine Learning & Artificial Intelligence at Goldsmiths college, University of London.
   
-  Awarded a Scholarship Data Science Course Bertelsmann Education Group
+  Awarded a Scholarship Genomic Data Science Course Bertelsmann Education Group
 
   Awarded Women Students in Computer Science & Engineering Event in Milan Sponsor by First Ascent International.
   
