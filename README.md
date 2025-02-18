@@ -3,7 +3,7 @@
 
 This Portfolio is a compilation of all the Machine Learning and Deep Learning projects I have done for academic, self-learning and hobby purposes. This portfolio also contains my Achievements, skills, and certificates. It is updated on the regular basis.
 
-   Email: sara.shahin2007@gmail.com
+   Email: s.shahin@qmul.ac.uk
   
    LinkedIn: https://www.linkedin.com/in/sara-shahin-3a842929/
    
