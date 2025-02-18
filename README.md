@@ -23,11 +23,23 @@ This Portfolio is a compilation of all the Machine Learning and Deep Learning pr
   
   ## Projects
 
+  ### Biometric Identification of Badger Individuals Using Camera Traps
+
+  I autonomously analyzed images for wildlife monitoring, focusing on developing a machine learning model for badger identification. By authoring a bespoke algorithm and collaborating with external partners, I successfully designed a software interface for biometric identification from camera trap imagery.
+
+  [https://github.com/sarashahin/Badger_AI]
+  
+
+  <br>
+  
+
   ###  Automate-Grading-Test-NART
   
   This project focuses on the automated grading of premorbid ability tests, specifically reading tasks measured by the National Adult Reading Test (NART).
 
    The goal is to classify the correct pronunciation of words to assess cognitive ability automatically.
+
+   [https://github.com/sarashahin/Automate-Grading-Test-NART]
    
 
   <br>
