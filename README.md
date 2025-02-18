@@ -23,6 +23,16 @@ This Portfolio is a compilation of all the Machine Learning and Deep Learning pr
   
   ## Projects
 
+  ###  Automate-Grading-Test-NART
+  
+  This project focuses on the automated grading of premorbid ability tests, specifically reading tasks measured by the National Adult Reading Test (NART).
+
+   The goal is to classify the correct pronunciation of words to assess cognitive ability automatically.
+   
+
+  <br>
+  
+
  ## <img align="left" src="https://github.com/sarashahin/Breast_Cancer_Detection_Attention-UNet_Segmentatio/blob/main/Images/Screenshot%202024-08-01%20at%2021.31.10.png" alt="My Image" height='150' width = '130'>
 
   [https://github.com/sarashahin/Breast_Cancer_Detection_Attention-UNet_Segmentatio/blob/main/Breast_Cancer_Detection_Attention_UNet_Segmentatio.ipynb]
