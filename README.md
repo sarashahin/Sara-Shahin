@@ -11,9 +11,11 @@ This Portfolio is a compilation of all the Machine Learning and Deep Learning pr
    
    
   ### Achievements
-  I am completed an MSc in AI at Anglia Ruskin University with Distinction.
+  PhD student at Queen Mary University of London, focusing on Unified Spatio-Temporal Biodiversity Modelling using AI.
   
-  Recipient of Honours Bachelor Degree of Computer Science - Machine Learning & Artificial Intelligence at Goldsmiths college, University of London.
+  I completed an MSc in Artificial Intelligence with Distinction at Anglia Ruskin University.
+  
+  Recipient of a First-Class Honours Bachelor's Degree in Computer Science – Machine Learning & Artificial Intelligence from Goldsmiths, University of London.
   
   Awarded a Scholarship Genomic Data Science Course Bertelsmann Education Group
 
