@@ -6,6 +6,28 @@ I’m passionate about building smart models that help us understand complex sys
 
 ---
 
+## 🎓 Education
+
+- **PhD in Artificial Intelligence**, *Queen Mary University of London*  
+  Spatio-temporal biodiversity modeling using generative and ecological AI methods. *(2025–2029)*
+
+- **MSc in Artificial Intelligence (Distinction)**, *Anglia Ruskin University*  
+  Focused on deep learning, health applications, and simulation-based research. *(2023–2024)*
+
+- **BSc in Machine Learning & AI (First Class Honours)**, *Goldsmiths, University of London*  
+  Strong foundation in algorithms, data science, and applied machine learning. *(2020–2023)*
+
+---
+
+## 🏆 Awards & Scholarships
+
+- 🧬 **Bertelsmann Scholarship** – Genomic Data Science Track  
+- 👩‍💻 **Women in Computer Science & Engineering** – Sponsored Delegate (Milan, First Ascent)  
+- 🏅 **First Class Honours Award** – Undergraduate degree in AI & ML  
+- 🎖️ **Best Research Project Award (MSc)** – Lung tumor detection and model robustness evaluation
+
+---
+
 ## 🔍 Research & Projects
 
 ### 🐾 Badger AI – Wildlife Biometrics with Camera Traps
