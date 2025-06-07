@@ -1,4 +1,4 @@
-# 👩‍💻 Sara Shahin — AI Researcher | PhD in Ecological Modeling
+# 👩‍💻 Sara Shahin — AI Researcher |PhD student in Simulation-Based Modeling & Machine Learning | Specializing in Probabilistic Systems, Dynamics, and Deep Learning | Bridging Ecology & Advanced Machine Learning
 
 Hi! I’m Sara, a PhD researcher at Queen Mary University of London working at the intersection of **artificial intelligence**, **simulation modeling**, and **biodiversity science**.
 
