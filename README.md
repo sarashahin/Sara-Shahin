@@ -39,6 +39,16 @@ Built a hybrid model using CNN + BERT for detecting fake news by analyzing both 
 
 ---
 
+## 📄 Publications
+
+- **Evaluation of Ensemble Learning for Mitigating Adversarial Attacks in Industrial Object Detection**  
+  Conference/EEE · May 15, 2024  
+  _Focuses on improving model robustness in high-stakes environments using ensemble methods._  
+
+  DOI: 10.36227/techrxiv.171561173.31420188/v1
+
+---
+
 ## 📌 Connect with Me
 
 - 🌐 [LinkedIn](https://www.linkedin.com/in/sara-shahin-3a842929/)
@@ -50,7 +60,7 @@ Built a hybrid model using CNN + BERT for detecting fake news by analyzing both 
 
 ## 📈 Ongoing
 
-Currently developing generative and simulation-based biodiversity models using spatio-temporal dynamics and AI. Open to research collaborations and internship opportunities in AI, simulation, and sustainability.
+Currently developing generative and simulation-based biodiversity models using spatio-temporal dynamics with AI. Open to research collaborations and internship opportunities in AI, simulation, and sustainability.
 
 ---
 
