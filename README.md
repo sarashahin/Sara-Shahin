@@ -66,8 +66,12 @@ Built a hybrid model using CNN + BERT for detecting fake news by analyzing both 
 - **Evaluation of Ensemble Learning for Mitigating Adversarial Attacks in Industrial Object Detection**  
   Conference/EEE · May 15, 2024  
   _Focuses on improving model robustness in high-stakes environments using ensemble methods._  
-
   DOI: 10.36227/techrxiv.171561173.31420188/v1
+
+- **[In Preparation]** *Distinct Paradigms of Metacommunity Theory Emerge from Combined Probabilistic–Stochastic–Deterministic Approximation of Individual-Based Metacommunity Models*  
+  First-author research paper currently being prepared for submission. The work compares IBM, ODE, and PSD models for simulating ecological dynamics.
+
+
 
 ---
 
