@@ -23,7 +23,7 @@ I’m passionate about building smart models that help us understand complex sys
 
 - 🧬 **Bertelsmann Scholarship** – Genomic Data Science Track  
 - 👩‍💻 **Women in Computer Science & Engineering** – Sponsored Delegate (Milan, First Ascent)  
-- 🏅 **First Class Honours Award** – Undergraduate degree in AI & ML  
+- 🏅 **First Class Honours Award** – Undergraduate degree in AI & ML  and MSc degree
 - 🎖️ **Best Research Project Award (MSc)** – Lung tumor detection and model robustness evaluation
 
 ---
