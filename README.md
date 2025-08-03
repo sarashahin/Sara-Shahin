@@ -8,8 +8,8 @@ I’m passionate about building smart models that help us understand complex sys
 
 ## 🎓 Education
 
-- **PhD in Artificial Intelligence**, *Queen Mary University of London*  
-  Spatio-temporal biodiversity modeling using generative and ecological AI methods. *(2025–2029)*
+- **PhD student in Simulation-Based Modeling & Machine Learning | Specializing in Probabilistic Systems, Dynamics, and Deep Learning**, Queen Mary University of London.  
+  Spatio-temporal biodiversity modeling, and generative AI methods. *(2025–2029)*
 
 - **MSc in Artificial Intelligence (Distinction)**, *Anglia Ruskin University*  
   Focused on deep learning, health applications, and simulation-based research. *(2023–2024)*
