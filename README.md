@@ -2,7 +2,7 @@
 
 Hi! I’m Sara, a PhD researcher at Queen Mary University of London working at the intersection of **artificial intelligence**, **simulation modeling**, and **biodiversity science**.
 
-I’m passionate about building smart models that help us understand complex systems—especially how species and ecosystems change over time. My work combines statistical inference, machine learning, and differential equations to solve real-world problems in ecology and health.
+I’m passionate about building mathematical models that help us understand complex systems, especially how species and ecosystems change over time. My work combines statistical inference, machine learning, and differential equations to solve real-world problems in ecology and health.
 
 ---
 
