@@ -24,7 +24,7 @@ I build **simulation-first AI** for ecosystems: from **individual-based models (
 ### 1. [Metacommunity Simulator (IBM / ODE / PSD2)]()
 Multi-patch IBM with **infinite-pool assembly**, ODE and PSD2 baselines, dispersal kernels, invasion tracking, mosaics & trajectory panels. GPU mode with **CuPy**.  
 **Key results:** PSD2 replicates IBM/ODE qualitative dynamics across body-mass regimes; non-local dispersal slows oscillations and alters invasion pressure.
-**Repo:** *(to be made public)* · **Figures:** mosaics, 3×2 trajectories.
+**Repo:** *(private)* · **Figures:** mosaics, 3×2 trajectories.
 
 ### 2. [Badger AI — Wildlife Biometrics](https://github.com/sarashahin/Badger_AI)
 Self-supervised features + metric learning for **individual re-identification** from camera trap images; Detectron2/YOLOv5 baselines; simple GUI.  
