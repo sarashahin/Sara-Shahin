@@ -6,7 +6,7 @@
 [![GitHub followers](https://img.shields.io/github/followers/sarashahin?style=social)](https://github.com/sarashahin)
 
 Hi — I’m **Sara**, a PhD student at **Queen Mary University of London**.  
-I build **simulation-first AI** for ecosystems: from **individual-based models (IBM)** to **ODE** and **probabilistic/PSD** approximations, with GPU-accelerated pipelines for large spatio-temporal systems. I also ship applied ML in **medical imaging** and **wildlife biometrics**.
+I build **simulation-first AI** for ecosystems: from **individual-based models (IBM)** to **ODE** and **PSD(Probabilistic, Stochastic & Deterministic)** approximations, with GPU-accelerated pipelines for large spatio-temporal systems. I also ship applied ML in **medical imaging** and **wildlife biometrics**.
 
 ---
 
@@ -21,9 +21,9 @@ I build **simulation-first AI** for ecosystems: from **individual-based models (
 ## 📂 Selected Projects
 > Click the repo names for code & instructions. Each includes a problem statement, quick-start commands, and figures.
 
-### 1. [Metacommunity Simulator (IBM / ODE / PSD2)]()
-Multi-patch IBM with **infinite-pool assembly**, ODE and PSD2 baselines, dispersal kernels, invasion tracking, mosaics & trajectory panels. GPU mode with **CuPy**.  
-**Key results:** PSD2 replicates IBM/ODE qualitative dynamics across body-mass regimes; non-local dispersal slows oscillations and alters invasion pressure.
+### 1. [Metacommunity Simulator (IBM / ODE / PSD)]()
+Multi-patch IBM with **infinite-pool assembly**, ODE and PSD(Probabilistic, Stochastic, Deterministic) baselines, dispersal kernels, invasion tracking, mosaics & trajectory panels. GPU mode with **CuPy**.  
+**Key results:** PSD replicates IBM/ODE qualitative dynamics across body-mass regimes; non-local dispersal slows oscillations and alters invasion pressure.
 **Repo:** *(private)* · **Figures:** mosaics, 3×2 trajectories.
 
 ### 2. [Badger AI — Wildlife Biometrics](https://github.com/sarashahin/Badger_AI)
