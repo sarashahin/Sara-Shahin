@@ -11,10 +11,10 @@ I build **simulation-first AI** for ecosystems: from **individual-based models (
 ---
 
 ## 🔍 Research Focus
-- **Simulation-based inference for ecosystems** — multi-patch IBM, Lotka–Volterra ODEs, PSD approximations; invasion/assembly, dispersal kernels, oscillations.
-- **Numerical methods & acceleration** — stable time-stepping, diagnostic guards, **CuPy/CUDA** acceleration.
-- **Robust ML** — ensemble defenses, domain shift & noise robustness in imaging; self-supervised re-ID for wildlife.
-- **Reproducible science** — minimal configs to regenerate each figure; CI smoke tests for reproducibility.
+- **Simulation-based inference for ecosystems** — multi-patch IBM, Lotka–Volterra ODEs, PSD approximations; invasion/assembly, dispersal kernels, oscillations, stable time-stepping, diagnostic guards, **CuPy/CUDA** acceleration.
+- **Wildlife biometrics:** self-supervised features + metric learning for camera-trap **re-identification** (badgers), with a small GUI.
+- **Medical imaging:** Attention-UNet segmentation + **ensemble defenses** improving robustness to corruption/adversarial noise.
+- **Reproducibility:** each project ships a minimal config and a one-command script to regenerate figures.
 
 ---
 
