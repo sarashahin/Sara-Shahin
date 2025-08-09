@@ -1,79 +1,82 @@
-# 👩‍💻 Sara Shahin — AI Researcher |PhD student in Simulation-Based Modeling & Machine Learning | Specializing in Probabilistic Systems, Dynamics, and Deep Learning | Bridging Ecology & Advanced Machine Learning
+# Sara Shahin — PhD Researcher in AI
+**Unified spatio-temporal biodiversity modelling • Probabilistic & stochastic dynamics (IBM / ODE / PSD) • GPU acceleration • Medical imaging & robust ML**
 
-Hi! I’m Sara, a PhD researcher at Queen Mary University of London working at the intersection of **artificial intelligence**, **simulation modeling**, and **biodiversity science**.
+[![ORCID](https://img.shields.io/badge/ORCID-0009--0000--7847--6242-green)](https://orcid.org/0009-0000-7847-6242)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-sara--shahin-blue)](https://www.linkedin.com/in/sara-shahin-3a842929/)
+[![GitHub followers](https://img.shields.io/github/followers/sarashahin?style=social)](https://github.com/sarashahin)
 
-I’m passionate about building mathematical models that help us understand complex systems, especially how species and ecosystems change over time. My work combines statistical inference, machine learning, and differential equations to solve real-world problems in ecology and health.
-
----
-
-## 🎓 Education
-
-- **PhD student in Simulation-Based Modeling & Machine Learning | Specializing in Probabilistic Systems, Dynamics, and Deep Learning**, Queen Mary University of London.  
-  Spatio-temporal biodiversity modeling, and generative AI methods. *(2025–2029)*
-
-- **MSc in Artificial Intelligence (Distinction)**, *Anglia Ruskin University*  
-  Focused on deep learning, health applications, and simulation-based research. *(2023–2024)*
-
-- **BSc in Machine Learning & AI (First Class Honours)**, *Goldsmiths, University of London*  
-  Strong foundation in algorithms, data science, and applied machine learning. *(2020–2023)*
+Hi — I’m **Sara**, a PhD student at **Queen Mary University of London**.  
+I build **simulation-first AI** for ecosystems: from **individual-based models (IBM)** to **ODE** and **probabilistic/PSD** approximations, with GPU-accelerated pipelines for large spatio-temporal systems. I also ship applied ML in **medical imaging** and **wildlife biometrics**.
 
 ---
 
-## 🏆 Awards & Scholarships
+## 🔍 Research Focus
+- **Simulation-based inference for ecosystems** — multi-patch IBM, Lotka–Volterra ODEs, PSD approximations; invasion/assembly, dispersal kernels, oscillations.
+- **Numerical methods & acceleration** — stable time-stepping, diagnostic guards, **CuPy/CUDA** acceleration.
+- **Robust ML** — ensemble defenses, domain shift & noise robustness in imaging; self-supervised re-ID for wildlife.
+- **Reproducible science** — minimal configs to regenerate each figure; CI smoke tests for reproducibility.
 
+---
+
+## 📂 Selected Projects
+> Click the repo names for code & instructions. Each includes a problem statement, quick-start commands, and figures.
+
+### 1. [Metacommunity Simulator (IBM / ODE / PSD2)]()
+Multi-patch IBM with **infinite-pool assembly**, ODE and PSD2 baselines, dispersal kernels, invasion tracking, mosaics & trajectory panels. GPU mode with **CuPy**.  
+**Key results:** PSD2 replicates IBM/ODE qualitative dynamics across body-mass regimes; non-local dispersal slows oscillations and alters invasion pressure.
+**Repo:** *(to be made public)* · **Figures:** mosaics, 3×2 trajectories.
+
+### 2. [Badger AI — Wildlife Biometrics](https://github.com/sarashahin/Badger_AI)
+Self-supervised features + metric learning for **individual re-identification** from camera trap images; Detectron2/YOLOv5 baselines; simple GUI.  
+**Key results:** >90% same-individual retrieval on held-out data; robust to varied lighting and angle.
+
+### 3. [Automate NART Grading](https://github.com/sarashahin/Automate-Grading-Test-NART)
+Automates grading of **National Adult Reading Test (NART)** pronunciations with mel-spectrogram features, CNN/CRNN/Transformer models.  
+**Key results:** Stable accuracy across speakers; detailed phoneme-level confusion analysis.
+
+### 4. [Medical Imaging — Attention-UNet & Robustness](https://github.com/sarashahin/Breast_Cancer_UNet_Segmentatio)
+Attention-UNet for ultrasound segmentation; robustness tests under noise/adversarial perturbations; ensemble defenses for detection.  
+**Key results:** +4–6% Dice over vanilla UNet; ensembles improve corruption robustness by >10% mAP.
+
+### 5. [Multimodal Fake News Detection](https://github.com/sarashahin/Multimodal-Fake-News-Detection)
+Simple multimodal baseline: CNN for image, BERT for text, late fusion classification.  
+**Key results:** +3–5% accuracy vs. text-only or image-only baselines.
+
+---
+
+## 📄 Publications & Manuscripts
+- **Evaluation of Ensemble Learning for Mitigating Adversarial Attacks in Industrial Object Detection** — *TechRxiv preprint*, 15 May 2024. DOI: [10.36227/techrxiv.171561173.31420188/v1](https://doi.org/10.36227/techrxiv.171561173.31420188/v1)  
+- **Distinct Paradigms of Metacommunity Theory Emerge from Probabilistic–Stochastic–Deterministic Approximation of Individual-Based Models** — *in preparation*.
+
+---
+
+## 🎓 Scholarships & Outreach
 - 🧬 **Bertelsmann Scholarship** – Genomic Data Science Track  
 - 👩‍💻 **Women in Computer Science & Engineering** – Sponsored Delegate (Milan, First Ascent)  
-- 🏅 **First Class Honours Award** – Undergraduate degree in AI & ML  and MSc degree
-- 🎖️ **Best Research Project Award (MSc)** – Lung tumor detection and model robustness evaluation
+- 🏛 **Data Study Group (Alan Turing Institute, Sept 2025)** — industry-facing problem solving in small teams  
+- 🤝 Open-source contributions to ML ecosystems (docs/tests/benchmarks)
 
 ---
 
-## 🔍 Research & Projects
-
-### 🐾 Badger AI – Wildlife Biometrics with Camera Traps
-Developed a machine learning pipeline for identifying individual badgers using image data. Built custom algorithms and a GUI to support biodiversity monitoring.  
-**[GitHub Repo »](https://github.com/sarashahin/Badger_AI)**
-
-### 🧠 NART Grading – Cognitive Assessment Automation
-Automated grading of the National Adult Reading Test (NART) to assist early detection of cognitive decline.  
-**[GitHub Repo »](https://github.com/sarashahin/Automate-Grading-Test-NART)**
-
-### 🩻 Lung Tumor Diagnosis – Robustness Testing of Transfer Learning
-Compared DenseNet121 and ResNet50 under noise and adversarial attacks. Created an ensemble method improving resistance to data quality issues.  
-**[GitHub Repo »](https://github.com/sarashahin/ML_Research)**
-
-### 🧬 Breast Cancer Segmentation with Attention UNet
-Designed an advanced image segmentation model for ultrasound-based cancer detection using an attention-enhanced UNet.  
-**[GitHub Repo »](https://github.com/sarashahin/Breast_Cancer_Detection_Attention-UNet_Segmentatio)**
-
-### 🤖 Multimodal Fake News Detection
-Built a hybrid model using CNN + BERT for detecting fake news by analyzing both images and text.  
-**[GitHub Repo »](https://github.com/sarashahin/Multimodal-Fake-News-Detection)**
+## 🛠 Tech Stack
+**Languages & Libraries:** Python (NumPy/CuPy, PyTorch, Keras), Numba, Matplotlib, scikit-learn  
+**Tools:** DVC / LFS, pytest, ruff, mypy, GitHub Actions, Docker  
+**Specialties:** Simulation, stochastic processes, time-series modelling, GPU acceleration
 
 ---
 
-## 📚 Core Skills
+## 🚀 Quickstart Example
+All repos ship a minimal config + one-command reproduction of main figures.
 
-- **AI & ML:** Supervised/Unsupervised Learning, Deep Learning (CNN, RNN, Transformers), Transfer Learning
-- **Mathematics & Statistics:** Differential Equations, Optimization, Probabilistic Models
-- **Languages & Tools:** Python, TensorFlow, PyTorch, SQL, NumPy, Scikit-learn, Git, MATLAB
-- **Visualization:** Matplotlib, Seaborn, Tableau
+```bash
+# Example: run a tiny IBM demo and plot a figure
+python -m sim.run --config configs/rps_demo.yaml --out runs/demo
+python analysis/make_panels.py runs/demo/output.npz
 
----
-
-## 📄 Publications
-
-- **Evaluation of Ensemble Learning for Mitigating Adversarial Attacks in Industrial Object Detection**  
-  Conference/EEE · May 15, 2024  
-  _Focuses on improving model robustness in high-stakes environments using ensemble methods._  
-  DOI: 10.36227/techrxiv.171561173.31420188/v1
-
-- **[In Preparation]** *Distinct Paradigms of Metacommunity Theory Emerge from Combined Probabilistic–Stochastic–Deterministic Approximation of Individual-Based Metacommunity Models*  
-  First-author research paper currently being prepared for submission. The work compares IBM, ODE, and PSD models for simulating ecological dynamics.
-
-
+```
 
 ---
+
 
 ## 📌 Connect with Me
 
@@ -91,4 +94,9 @@ Currently developing generative and simulation-based biodiversity models using s
 ---
 
 ⭐ Feel free to explore my repositories, follow for updates, or get in touch if you'd like to collaborate!
+
+
+
+
+
 
