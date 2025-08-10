@@ -50,11 +50,19 @@ Simple multimodal baseline: CNN for image, BERT for text, late fusion classifica
 
 ---
 
-## 🎓 Scholarships & Outreach
-- 🏛 **Data Study Group (Alan Turing Institute, Sept 2025)** — industry-facing problem solving in small teams 
-- 🧬 **Bertelsmann Scholarship** – Genomic Data Science Track  
-- 👩‍💻 **Women in Computer Science & Engineering** – Sponsored Delegate (Milan, First Ascent)   
-- 🤝 Open-source contributions to ML ecosystems (docs/tests/benchmarks)
+## 🎓 Scholarships, Awards & Outreach
+- 🏛 **Alan Turing Institute — Data Study Group (Sept 2025)**  
+  Selected PhD researcher for a competitive, 2-week, industry-facing programme solving real-world data science challenges in a multidisciplinary team.
+
+- 🌍 **Open Source Summit Europe 2025 — Scholarship Awardee**  
+  Awarded a fully funded scholarship to attend the Open Source Summit Europe (Amsterdam, 25–27 Aug 2025), engaging with the global open-source community.
+
+- 🧬 **Bertelsmann Scholarship** — Genomic Data Science Track  
+
+- 👩‍💻 **Women in Computer Science & Engineering** — Sponsored Delegate (Milan, First Ascent)  
+
+- 🤝 **Open-source contributions** — Documentation, tests, and benchmarks in ML ecosystems
+
 
 ---
 
