@@ -9,8 +9,14 @@ Hi — I’m **Sara**, a PhD student at **Queen Mary University of London**.
 I build **mathematical simulation-first AI** for ecosystems: from **individual-based models (IBM)** to **ODE** and **PSD(Probabilistic, Stochastic & Deterministic)** approximations, with GPU-accelerated pipelines for large spatio-temporal systems. I also ship applied ML in **medical imaging** and **wildlife biometrics**.
 
 ---
+## 🎓 Education
+- **PhD in Unified spatio-temporal biodiversity mathematical modelling with AI**, Queen Mary University of London — *Jan 2025 – Present*  
+- **MSc in Artificial Intelligence (Distinction)**, Anglia Ruskin University — *Sep 2023 – Sep 2024*
+- **BSc in Machine Learning & Artificial Intelligence (First Class Honours)**, Goldsmiths, University of London — *2020 – Mar 2023*
 
-## 🔍 Research Focus
+---
+
+## 🧪 Research & Work Experience
 - **Simulation-based inference for ecosystems** — multi-patch IBM, Lotka–Volterra ODEs, PSD approximations; invasion/assembly, dispersal kernels, oscillations, stable time-stepping, diagnostic guards, **CuPy/CUDA** acceleration.
 - **Wildlife biometrics:** self-supervised features + metric learning for camera-trap **re-identification** (badgers), with a small GUI.
 - **Medical imaging:** Attention-UNet segmentation + **ensemble defenses** improving robustness to corruption/adversarial noise.
