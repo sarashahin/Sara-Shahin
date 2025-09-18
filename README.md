@@ -1,5 +1,5 @@
 # Sara Shahin — PhD Researcher in AI
-**Unified spatio-temporal biodiversity mathematical modelling • Probabilistic & stochastic dynamics (IBM / ODE / PSD) • GPU acceleration • Medical imaging & robust ML**
+**Simulation-Based - Unified spatio-temporal biodiversity mathematical modelling • Probabilistic & stochastic dynamics (IBM / ODE / PSD) • GPU acceleration • Medical imaging & robust ML**
 
 [![ORCID](https://img.shields.io/badge/ORCID-0009--0000--7847--6242-green)](https://orcid.org/0009-0000-7847-6242)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-sara--shahin-blue)](https://www.linkedin.com/in/sara-shahin-3a842929/)
@@ -10,7 +10,7 @@ I build **mathematical simulation-first AI** for ecosystems: from **individual-b
 
 ---
 ## 🎓 Education
-- **PhD in Unified spatio-temporal biodiversity mathematical modelling with AI**, Queen Mary University of London — *Jan 2025 – Present*  
+- **PhD in Simulation-Based - Unified spatio-temporal biodiversity mathematical modelling with AI**, Queen Mary University of London — *Jan 2025 – Present*  
 - **MSc in Artificial Intelligence (Distinction)**, Anglia Ruskin University — *Sep 2023 – Sep 2024*
 - **BSc in Machine Learning & Artificial Intelligence (First Class Honours)**, Goldsmiths, University of London — *2020 – Mar 2023*
 
