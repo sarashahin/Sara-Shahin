@@ -6,7 +6,7 @@
 <br>
 
 [![ORCID](https://img.shields.io/badge/ORCID-0009--0000--7847--6242-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0009-0000-7847-6242)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-sara--shahin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sara-shahin-3a842929/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-sara--shahin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sara-shahin-ai/)
 [![Email](https://img.shields.io/badge/Email-s.shahin@qmul.ac.uk-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:s.shahin@qmul.ac.uk)
 [![Kaggle](https://img.shields.io/badge/Kaggle-sarashahin-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/sarashahin)
 
