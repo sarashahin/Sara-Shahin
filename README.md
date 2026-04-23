@@ -189,8 +189,8 @@ CNN (image) + BERT (text) with late fusion classification.
 
 | Status | Title | Venue |
 |:------:|:------|:------|
-| 📝 | **Distinct Paradigms of Metacommunity Theory Emerge from Probabilistic–Stochastic–Deterministic Approximation of Individual-Based Models** | *In preparation for Nature* |
-| ✅ | **Evaluation of Ensemble Learning for Mitigating Adversarial Attacks in Industrial Object Detection** | *TechRxiv* · [DOI](https://doi.org/10.36227/techrxiv.171561173.31420188/v1) |
+| ✅ | **A modelling technique unifying four paradigms of metacommunity theory** | *biorxiv* · [DOI](https://doi.org/10.64898/2026.04.21.719942) |
+| ✅ | **Evaluation of Ensemble Learning for Mitigating Adversarial Attacks in Industrial Object Detection** | *IEEE* · [DOI](https://ieeexplore.ieee.org/document/10905684) |
 
 <br>
 
