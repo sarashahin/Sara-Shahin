@@ -82,7 +82,7 @@ Beyond biodiversity, I deliver applied ML in **medical imaging** (robust segment
 <tr>
 <td width="50%" valign="top">
 
-### 🧬 Metacommunity Simulator
+### 🧬 [Metacommunity Simulator](https://github.com/sarashahin/The-Lotka-Volterra-Metacommunity-Model/tree/main)
 **IBM / ODE / PSD Framework**
 
 Multi-patch individual-based model with infinite-pool assembly, ODE and PSD baselines, dispersal kernels, and invasion tracking.
