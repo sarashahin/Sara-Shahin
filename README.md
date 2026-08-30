@@ -16,9 +16,15 @@
 
 ## 👋 About Me
 
-I'm a **PhD student at Queen Mary University of London** developing unified spatio-temporal biodiversity models that bridge **individual-based simulations (IBM)**, **ODE systems**, and **probabilistic-stochastic-deterministic (PSD) approximations**. My work combines rigorous mathematical modelling with modern deep learning to advance ecological forecasting and conservation science.
+# Sara Shahin
 
-Beyond biodiversity, I deliver applied ML in **medical imaging** (robust segmentation under adversarial conditions) and **wildlife biometrics** (camera-trap re-identification).
+PhD Researcher in Artificial Intelligence at Queen Mary University of London.
+
+Research interests: biodiversity modelling, ecological simulation, machine learning,
+generative AI, spatio-temporal modelling, probabilistic-stochastic-deterministic
+(PSD) models, individual-based models (IBM), and scientific computing.
+
+ORCID: https://orcid.org/0009-0000-7847-6242
 
 <br>
 
