@@ -185,12 +185,33 @@ CNN (image) + BERT (text) with late fusion classification.
 
 <br>
 
-## 📄 Publications
+## 📚 Publications
 
-| Status | Title | Venue |
-|:------:|:------|:------|
-| ✅ | **A modelling technique unifying four paradigms of metacommunity theory** | *biorxiv* · [DOI](https://doi.org/10.64898/2026.04.21.719942) |
-| ✅ | **Evaluation of Ensemble Learning for Mitigating Adversarial Attacks in Industrial Object Detection** | *IEEE* · [DOI](https://ieeexplore.ieee.org/document/10905684) |
+### 1. A modelling technique unifying four paradigms of metacommunity theory
+
+**Sara Shahin**, Jacob D. O’Sullivan, Axel G. Rossberg
+
+Preprint · bioRxiv · 2026
+
+DOI: https://doi.org/10.64898/2026.04.21.719942
+
+[![bioRxiv](https://img.shields.io/badge/bioRxiv-2026-blue)](https://www.biorxiv.org/content/10.64898/2026.04.21.719942v1)
+[![DOI](https://img.shields.io/badge/DOI-10.64898%2F2026.04.21.719942-green)](https://doi.org/10.64898/2026.04.21.719942)
+
+---
+
+### 2. Evaluation of Ensemble Learning for Mitigating Adversarial Attacks in Industrial Object Detection
+
+Shashank Pulijala, **Sara Shahin**, Tapadhir Das, Raj Mani Shukla
+
+Conference Paper · IEEE · 2024
+
+DOI: https://doi.org/10.1109/...
+
+Preprint DOI: https://doi.org/10.36227/techrxiv.171561173.31420188/v1
+
+[ResearchGate](https://www.researchgate.net/publication/380548378_Evaluation_of_Ensemble_Learning_for_Mitigating_Adversarial_Attacks_in_Industrial_Object_Detection)
+[TechRxiv](https://doi.org/10.36227/techrxiv.171561173.31420188/v1)
 
 <br>
 
