@@ -18,9 +18,9 @@
 
 # Sara Shahin
 
-PhD researcher at Queen Mary University of London (School of Biological and Behavioural Sciences), supervised by Prof. Axel Rossberg. I build simulation models and generative AI to predict species distributions and community dynamics, with the aim of improving IUCN Red List assessments.
+PhD researcher at Queen Mary University of London (School of Biological and Behavioural Sciences), supervised by Prof. Axel Rossberg. I apply generative AI and machine learning to ecology, predicting species distributions and community dynamics for IUCN Red List assessments.
 
-Research interests: biodiversity modelling, metacommunity theory, diffusion models, individual-based models (IBM), probabilistic-stochastic-deterministic (PSD) models, and scientific computing.
+Research interests: generative AI, diffusion models, machine learning, spatio-temporal modelling, scientific computing, individual-based models (IBM), probabilistic-stochastic-deterministic (PSD) models, and biodiversity modelling.
 
 ORCID: https://orcid.org/0009-0000-7847-6242
 
@@ -264,10 +264,10 @@ Preprint DOI: https://doi.org/10.36227/techrxiv.171561173.31420188/v1
 
 ## 🎯 Current Focus
 
-self.phd_focus = "Spatio-temporal process-aware models for biodiversity prediction"
+self.phd_focus = "Generative AI for spatio-temporal biodiversity prediction"
 self.methods = [
-    "Individual-based models (IBM), ODE and PSD simulation",
     "EcoDiffusion: conditional diffusion model trained on simulated communities",
+    "Individual-based models (IBM), ODE and PSD simulation",
     "GPU-accelerated simulation",
     "Uncertainty quantification from sparse observations"
 ]
