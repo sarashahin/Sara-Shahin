@@ -18,11 +18,9 @@
 
 # Sara Shahin
 
-PhD Researcher in Artificial Intelligence at Queen Mary University of London.
+PhD researcher at Queen Mary University of London (School of Biological and Behavioural Sciences), supervised by Prof. Axel Rossberg. I build simulation models and generative AI to predict species distributions and community dynamics, with the aim of improving IUCN Red List assessments.
 
-Research interests: biodiversity modelling, ecological simulation, machine learning,
-generative AI, spatio-temporal modelling, probabilistic-stochastic-deterministic
-(PSD) models, individual-based models (IBM), and scientific computing.
+Research interests: biodiversity modelling, metacommunity theory, diffusion models, individual-based models (IBM), probabilistic-stochastic-deterministic (PSD) models, and scientific computing.
 
 ORCID: https://orcid.org/0009-0000-7847-6242
 
@@ -40,7 +38,7 @@ ORCID: https://orcid.org/0009-0000-7847-6242
 
 | Degree | Institution | Period | Result |
 |:-------|:------------|:-------|:------:|
-| **PhD** Simulation-Based Unified Spatio-Temporal Biodiversity Modelling | Queen Mary University of London | 2025 – Present | — |
+| **PhD** Spatio-temporal process-aware models for biodiversity prediction | Queen Mary University of London | 2025 – Present | — |
 | **MSc** Artificial Intelligence | Anglia Ruskin University | 2023 – 2024 | **Distinction** |
 | **BSc** Machine Learning & Artificial Intelligence | Goldsmiths, University of London | 2020 – 2023 | **First Class** |
 
@@ -193,11 +191,9 @@ CNN (image) + BERT (text) with late fusion classification.
 
 ## 📚 Publications
 
-### 1. A modelling technique unifying four paradigms of metacommunity theory
-
-**Sara Shahin**, Jacob D. O’Sullivan, Axel G. Rossberg
-
-Preprint · bioRxiv · 2026
+### 1. A modelling framework unifying four paradigms of metacommunity theory
+Sara Shahin, Jacob D. O'Sullivan, Axel G. Rossberg
+Submitted to Ecology Letters · bioRxiv preprint · 2026
 
 DOI: https://doi.org/10.64898/2026.04.21.719942
 
@@ -268,33 +264,18 @@ Preprint DOI: https://doi.org/10.36227/techrxiv.171561173.31420188/v1
 
 ## 🎯 Current Focus
 
-```python
-class CurrentResearch:
-    """What I'm working on right now."""
-    
-    def __init__(self):
-        self.institution = "Queen Mary University of London"
-        self.phd_focus = "Unified spatio-temporal biodiversity modelling"
-        self.methods = [
-            "Individual-Based Models (IBM)",
-            "PSD approximation framework",
-            "GPU-accelerated simulation",
-            "Bayesian uncertainty quantification"
-        ]
-        self.applications = [
-            "Conservation science",
-            "Species distribution prediction",
-            "Ecological forecasting"
-        ]
-        self.open_to = [
-            "Research collaborations",
-            "Internships in AI + sustainability",
-            "Open-source contributions"
-        ]
-    
-    def contact(self) -> str:
-        return "s.shahin@qmul.ac.uk"
-```
+self.phd_focus = "Spatio-temporal process-aware models for biodiversity prediction"
+self.methods = [
+    "Individual-based models (IBM), ODE and PSD simulation",
+    "EcoDiffusion: conditional diffusion model trained on simulated communities",
+    "GPU-accelerated simulation",
+    "Uncertainty quantification from sparse observations"
+]
+self.applications = [
+    "Species distribution prediction",
+    "IUCN Red List metrics (area of occupancy, extent of occurrence)",
+    "Conservation science"
+]
 
 <br>
 
